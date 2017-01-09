@@ -1,12 +1,12 @@
 # classification
 Used different approaches to find the best model for clasiification of data set in 2 categories
-Language used :- Octave ( Version 3.8.1 )
-Packages Used :- Statistics
- Optimization
-Algorithm Used :- SVM ( with Gaussian Kernel)
- Logistic Regression ( Discriminant analysis )
- Deep Neural Network
-Steps used by me to reach upto my model on the given training set are :-
+# Language used :- Octave ( Version 3.8.1 )
+# Packages Used :- Statistics
+ # Optimization
+# Algorithm Used :- SVM ( with Gaussian Kernel)
+  Logistic Regression
+  Deep Neural Network
+# Steps used by me to reach upto my model on the given training set are :-
 1. First i started training my model of logistic regression algorithm with the some percentage of
  randomly selected training example form the given training dataset and on the same instant
  checking the accuracy with some new unselected dataset to find the best regularizing parameter
