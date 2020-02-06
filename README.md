@@ -1,8 +1,6 @@
 # classification
 Used different approaches to find the best model for clasiification of data set in 2 categories
-# Language used :- Octave ( Version 3.8.1 )
-# Packages Used :- Statistics
- # Optimization
+
 # Algorithm Used :- SVM ( with Gaussian Kernel)
   Logistic Regression
   Deep Neural Network
