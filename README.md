@@ -1,10 +1,10 @@
-# classification
+# Contest for Survaider Internship
 Used different approaches to find the best model for clasiification of data set of users data from twitter feed in 2 categories i.e fraud/non-fraud
   - language used - Octave( an open source version of matlab)
 
-# Algorithm Used :- SVM ( with Gaussian Kernel)
+# Algorithms Used 
   - Logistic Regression
-  - Support vector machine (svm
+  - Support vector machine (svm with Gaussian Kernel)
 
 # Steps used to achieve the best model on the given training sets are :-
 1. First trained the model using logistic regression algorithm with the some percentage of
