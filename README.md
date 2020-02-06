@@ -1,4 +1,4 @@
-# Contest for Survaider Internship
+# Contest for Survaider Data science Internship
 Used different approaches to find the best model for clasiification of data set of users data from twitter feed in 2 categories i.e fraud/non-fraud
   - language used - Octave( an open source version of matlab)
 
